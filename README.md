@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi :)
+- 🕵️‍♀️ My name is Ana Paula Sá 
+- 📚 I am currently in the third semester of Computer Engineering
 
 <!--
 **anapsa/anapsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
