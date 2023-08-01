@@ -1,5 +1,5 @@
 # Hi :)
-- 🕵️‍♀️ My name is Ana Paula Sá 
+- 🕵️‍♀️ My name is Ana Paula Sá Barreto
 - 📚 I am currently in the third semester of Computer Engineering
 
 <!--
