@@ -1,5 +1,5 @@
-# Olá! Meu nome é Ana Paula Sá Barreto 
-Atualmente, curso o quinto período do curso de Engenharia da Computação no CIn - UFPE 
+# Hello! I'm Ana Paula Sá Barreto 
+
 ### Programming Languages:
 
 ![Swift](https://img.shields.io/badge/-swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
