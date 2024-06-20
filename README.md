@@ -8,6 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Stats 📊
+### Stats 📊:
 | </a> | <a href="https://github.com/anapsa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapsa&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
