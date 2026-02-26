@@ -1,8 +1,5 @@
 ## 👋 Olá! Eu sou Ana Paula Sá Barreto
 
-👩🏻‍💻 Sou estudante de **Engenharia da Computação** (8º período) no Centro de Informática da UFPE.  
-🍎 Faço parte da **Apple Developer Academy**, onde mergulho em desenvolvimento iOS com Swift, SwiftUI e todas as ferramentas do ecossistema Apple. 
-
 ### Linguagens de Programação:
 
 ![Swift](https://img.shields.io/badge/-swift-F05138?logo=swift&logoColor=white&style=for-the-badge)
